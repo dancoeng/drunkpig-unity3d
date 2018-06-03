@@ -1,0 +1,131 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6520G (ID=0x9647)
+    Vendor:   ATI
+    VRAM:     2287 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Users\IDani\Downloads\DrunkPig_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Users\IDani\Downloads\DrunkPig_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Users\IDani\Downloads\DrunkPig_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Users\IDani\Downloads\DrunkPig_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Users\IDani\Downloads\DrunkPig_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Users\IDani\Downloads\DrunkPig_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Users\IDani\Downloads\DrunkPig_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Users\IDani\Downloads\DrunkPig_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Users\IDani\Downloads\DrunkPig_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Users\IDani\Downloads\DrunkPig_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.126 seconds
+Platform assembly: E:\Users\IDani\Downloads\DrunkPig_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Users\IDani\Downloads\DrunkPig_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.824533 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 251c -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.093334 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1130.
+Total: 0.957733 ms (FindLiveObjects: 0.155955 ms CreateObjectMapping: 0.137377 ms MarkObjects: 0.545600 ms  DeleteObjects: 0.111466 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.056755 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 1.103911 ms (FindLiveObjects: 0.141288 ms CreateObjectMapping: 0.051822 ms MarkObjects: 0.682977 ms  DeleteObjects: 0.219022 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.278444 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 0.654622 ms (FindLiveObjects: 0.142266 ms CreateObjectMapping: 0.048400 ms MarkObjects: 0.338800 ms  DeleteObjects: 0.115866 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.874622 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 470.
+Total: 0.936711 ms (FindLiveObjects: 0.129066 ms CreateObjectMapping: 0.095822 ms MarkObjects: 0.683955 ms  DeleteObjects: 0.020044 ms)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.434400 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1138.
+Total: 1.026177 ms (FindLiveObjects: 0.223422 ms CreateObjectMapping: 0.123200 ms MarkObjects: 0.603777 ms  DeleteObjects: 0.067955 ms)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.832355 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1138.
+Total: 0.827200 ms (FindLiveObjects: 0.189200 ms CreateObjectMapping: 0.089466 ms MarkObjects: 0.523111 ms  DeleteObjects: 0.017600 ms)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.688622 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1138.
+Total: 0.918133 ms (FindLiveObjects: 0.197022 ms CreateObjectMapping: 0.121244 ms MarkObjects: 0.574444 ms  DeleteObjects: 0.017111 ms)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.806933 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1138.
+Total: 0.938666 ms (FindLiveObjects: 0.198977 ms CreateObjectMapping: 0.121244 ms MarkObjects: 0.592044 ms  DeleteObjects: 0.017600 ms)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.717955 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1138.
+Total: 0.936711 ms (FindLiveObjects: 0.198000 ms CreateObjectMapping: 0.120755 ms MarkObjects: 0.592044 ms  DeleteObjects: 0.017111 ms)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.758044 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1138.
+Total: 1.042311 ms (FindLiveObjects: 0.268888 ms CreateObjectMapping: 0.121733 ms MarkObjects: 0.626266 ms  DeleteObjects: 0.017111 ms)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.713066 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1138.
+Total: 0.929377 ms (FindLiveObjects: 0.200444 ms CreateObjectMapping: 0.121733 ms MarkObjects: 0.581777 ms  DeleteObjects: 0.016133 ms)
+
